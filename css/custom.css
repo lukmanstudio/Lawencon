@@ -1,0 +1,111 @@
+.alert-warning {
+    color: #000 !important;
+    background-color: #F2F2F2 !important;
+    border: none !important;
+    margin-bottom: 0px !important;
+}
+
+.close {
+    float: right !important;
+    font-size: 16px !important;
+    font-weight: 700 !important;
+    line-height: 1 !important;
+    color: #fff !important;
+    background-color: #017AC1 !important;
+    text-shadow: none !important;
+    opacity: unset !important;
+    right: 22% !important;
+    top: 20% !important;
+    border-radius: 5px !important;
+    padding: 10px !important;
+}
+
+.notif {
+    padding: 8px;
+    text-align: center;
+    height: 65px;
+}
+
+
+.container-fluid.hero {
+    padding: inherit;
+    height: 680px;
+    background: #006B9F;
+    background-image: url(../image/work-desk__dustin-lee.jpg);
+    background-blend-mode: multiply;
+    color: #fff;
+    background-size: cover;
+}
+section.logo {
+    height: 50px;
+    width: 50px;
+    padding-top: 15px;
+    padding-left: 25px;
+}
+section.hero {
+    text-align: center;
+    padding: 233px 0;
+}
+section.hero h1 {
+    font-weight: 400;
+}
+.btn-hero {
+    color: #fff !important;
+    border: solid 1px #fff !important;
+    border-radius: 0px !important;
+}
+.btn-hero:hover {
+    border: none;
+    background-color: #fff;
+    color: #007bff !important;
+}
+
+.highlights{
+    background-color: #E5E5E5;
+    padding: 50px;
+}
+.highlights-title {
+    text-align: center;
+}
+section.highlights {
+    padding: 20px;
+}
+.row-highlights {
+    margin-top: 30px;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+.col-highlights {
+    border: 1px solid #ACACAC;
+    padding: 5px !important;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 15px;
+    max-width: 30% !important;
+}
+
+
+.sliding {
+    background: rgba(22, 130, 195, 0.8) !important;
+    width: 620px !important;
+    display: inline-block;
+    color: #fff;
+    float: left;
+    bottom: 0px !important;
+    left: 0px;
+    position: fixed;
+}
+
+section.sliding {
+    background: none;
+    padding: 10px;
+}
+
+
+.footer {
+    background-color: #050328;
+    height: 50px;
+    color: #fff;
+    text-align: center;
+    line-height: 50px;
+}
